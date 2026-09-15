@@ -35,28 +35,28 @@
 ## TEXT EMPHASIS
 ```
 **This is bold text**  
-__This is bold text__
-<strong>This is bold text</strong>
-*This is italic text*  
-_This is italic text_
-<em>This is italic text</em>
-***Bold and Italic***  
-___Bold and Italic___
-<strong><em> Bold and Italic </em></strong>
-~~Scratch this~~
-<del>Scratch this</del>
+__This is bold text__ 
+<strong>This is bold text</strong> 
+*This is italic text*   
+_This is italic text_  
+<em>This is italic text</em>  
+***Bold and Italic***   
+___Bold and Italic___  
+<strong><em> Bold and Italic </em></strong>  
+~~Scratch this~~  
+<del>Scratch this</del>  
 ```
 **This is bold text**  
-__This is bold text__
-<strong>This is bold text</strong>
+__This is bold text__  
+<strong>This is bold text</strong>  
 *This is italic text*  
-_This is italic text_
-<em>This is italic text</em>
-***Bold and Italic***  
-___Bold and Italic___
-<strong><em> Bold and Italic </em></strong>
-~~Scratch this~~
-<del>Scratch this</del>
+_This is italic text_  
+<em>This is italic text</em>  
+***Bold and Italic***   
+___Bold and Italic___  
+<strong><em> Bold and Italic </em></strong>  
+~~Scratch this~~  
+<del>Scratch this</del>  
 
 ## PARAGRAPHS
 ```
@@ -228,24 +228,21 @@ an example</a> inline link.</p>
 <p><a href="http://example.net/">This link</a> has no
 title attribute.</p>
 
-https://en.wikipedia.org
-<a href="https://en.wikipedia.org">https://en.wikipedia.org</a>
-[click me](https://en.wikipedia.org)
-<a href="https://en.wikipedia.org">click me</a>
-[click me](https://en.wikipedia.org "Wikipedia")
-<a href="https://en.wikipedia.org" title=”Wikipedia”>click me</a>
+https://en.wikipedia.org  
+<a href="https://en.wikipedia.org">https://en.wikipedia.org</a>  
+[click me](https://en.wikipedia.org)  
+<a href="https://en.wikipedia.org">click me</a>  
+[click me](https://en.wikipedia.org "Wikipedia")  
+<a href="https://en.wikipedia.org" title=”Wikipedia”>click me</a>  
 
 ## TASK LISTS
 ```
 - [x] Some task
 - [ ] Some more task
-<input type=”checkbox” disabled checked> Some task
-<input type=”checkbox” disabled> Some more task
 ```
-- [x] Some task
-- [ ] Some more task
-<input type=”checkbox” disabled checked> Some task
-<input type=”checkbox” disabled> Some more task
+- [x] Some task  
+- [ ] Some more task  
+
 
 ## TEXT COLOR
 ```
@@ -321,7 +318,9 @@ Do not forget to buy <mark>milk</mark> today.
 
 
 
-
+<hr>
 https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd  
+<hr>
 https://daringfireball.net/projects/markdown/syntax  
+<hr>
 https://www.markdownguide.org/basic-syntax/  
