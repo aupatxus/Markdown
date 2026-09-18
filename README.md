@@ -1,36 +1,6 @@
 # Markdown Syntax and Equivalent HTML Syntax
 
-
-## HEADINGS
-```
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-
-<h1>Header 1</h1>
-<h2>Header 2</h2>
-<h3>Header 3</h3>
-<h4>Header 4</h4>
-<h5>Header 5</h5>
-<h6>Header 6</h6>
-```
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-
-<h1>Header 1</h1>
-<h2>Header 2</h2>
-<h3>Header 3</h3>
-<h4>Header 4</h4>
-<h5>Header 5</h5>
-<h6>Header 6</h6>
-
+![Data Science con IA](https://raw.githubusercontent.com/aupatxus/ONLINE_DS_THEBRIDGE_GitHub/refs/heads/main/Vital%20LANBIDE.png)
 
 ## TEXT EMPHASIS
 ```
@@ -244,6 +214,43 @@ https://en.wikipedia.org
 - [ ] Some more task  
 
 
+## HTML MARK TAG
+```
+Do not forget to buy <mark>milk</mark> today.
+```
+Do not forget to buy <mark>milk</mark> today.
+
+
+## HEADINGS
+```
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+<h1>Header 1</h1>
+<h2>Header 2</h2>
+<h3>Header 3</h3>
+<h4>Header 4</h4>
+<h5>Header 5</h5>
+<h6>Header 6</h6>
+```
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+<h1>Header 1</h1>
+<h2>Header 2</h2>
+<h3>Header 3</h3>
+<h4>Header 4</h4>
+<h5>Header 5</h5>
+<h6>Header 6</h6>
+
 ## TEXT COLOR
 ```
 <span style="color:blue">Text</span>
@@ -310,13 +317,9 @@ https://en.wikipedia.org
 </code>
 </p>
 
-## HTML MARK TAG
-```
-Do not forget to buy <mark>milk</mark> today.
-```
-Do not forget to buy <mark>milk</mark> today.
 
 
+![Data Science con IA](https://raw.githubusercontent.com/aupatxus/ONLINE_DS_THEBRIDGE_GitHub/refs/heads/main/Vital%20LANBIDE.png)
 
 <hr>
 https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd  
