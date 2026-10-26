@@ -2,6 +2,13 @@
 
 ![Data Science con IA](https://raw.githubusercontent.com/aupatxus/ONLINE_DS_THEBRIDGE_GitHub/refs/heads/main/Vital%20LANBIDE.png)
 
+
+Markdown es un lenguaje de marcado ligero que permite aplicar formato a un texto utilizando caracteres sencillos de texto plano, desarrollado originalmente en 2004 por John Gruber y Aaron Swartz.  
+
+Su gran ventaja radica en la portabilidad: cualquier archivo con la extensión .md se puede abrir y editar en cualquier lector de notas básico, y plataformas como GitHub, Notion o WordPress lo interpretan de manera nativa.
+
+
+
 ## TEXT EMPHASIS
 ```
 **This is bold text**  
