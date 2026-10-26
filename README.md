@@ -8,6 +8,15 @@ Markdown es un lenguaje de marcado ligero que permite aplicar formato a un texto
 Su gran ventaja radica en la portabilidad: cualquier archivo con la extensión .md se puede abrir y editar en cualquier lector de notas básico, y plataformas como GitHub, Notion o WordPress lo interpretan de manera nativa.
 
 
+Las 4 grandes ventajas de Markdown:
+
+* Legibilidad: El texto original se lee de forma limpia y natural, sin etiquetas complejas ni códigos raros.
+* Velocidad: Escribes de manera continua. 
+* Independencia (Portabilidad): Un archivo Markdown es simplemente texto plano (se guarda con la extensión .md). 
+* Estándar en internet: Es el idioma oficial para documentar código en GitHub GitHub, organizar notas en Notion u Obsidian, y publicar contenido en plataformas modernas.
+
+
+
 
 ## TEXT EMPHASIS
 ```
